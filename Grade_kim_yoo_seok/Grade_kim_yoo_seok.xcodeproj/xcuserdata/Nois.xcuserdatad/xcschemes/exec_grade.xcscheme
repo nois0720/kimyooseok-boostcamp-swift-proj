@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E5B0DFF91EDE761C008743E2"
+               BlueprintIdentifier = "E5B0E00D1EE118A4008743E2"
                BuildableName = "exec_grade"
                BlueprintName = "exec_grade"
                ReferencedContainer = "container:Grade_kim_yoo_seok.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E5B0DFF91EDE761C008743E2"
+            BlueprintIdentifier = "E5B0E00D1EE118A4008743E2"
             BuildableName = "exec_grade"
             BlueprintName = "exec_grade"
             ReferencedContainer = "container:Grade_kim_yoo_seok.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E5B0DFF91EDE761C008743E2"
+            BlueprintIdentifier = "E5B0E00D1EE118A4008743E2"
             BuildableName = "exec_grade"
             BlueprintName = "exec_grade"
             ReferencedContainer = "container:Grade_kim_yoo_seok.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E5B0DFF91EDE761C008743E2"
+            BlueprintIdentifier = "E5B0E00D1EE118A4008743E2"
             BuildableName = "exec_grade"
             BlueprintName = "exec_grade"
             ReferencedContainer = "container:Grade_kim_yoo_seok.xcodeproj">
